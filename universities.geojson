@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "ユトレヒト大学",
+        "partner_organization": "Utrecht University",
+        "location_ja": "オランダ ユトレヒト",
+        "location_en": "Utrecht, Netherlands",
+        "agreement_type_ja": "CiC Research Partner",
+        "agreement_type_en": "CiC Research Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#626",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.175749114, 52.08622093]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "アルファラビ・カザフ国立大学",
+        "partner_organization": "Al-Farabi Kazakh National University",
+        "location_ja": "カザフスタン アルマトイ",
+        "location_en": "Almaty, Kazakhstan",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#1179",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.92256977, 43.22616018]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "ボーフム大学",
+        "partner_organization": "Ruhr University Bochum",
+        "location_ja": "ドイツ ボーフム",
+        "location_en": "Bochum, Germany",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#1148",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.263237869, 51.44666808]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "サンパウロ大学",
+        "partner_organization": "University of Sao Paulo",
+        "location_ja": "ブラジル サンパウロ",
+        "location_en": "Sao Paulo, Brazil",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#936",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.73087005, -23.56010841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "グルノーブル・アルプ大学",
+        "partner_organization": " Universite Grenoble Alpes",
+        "location_ja": "フランス　グルノーブル",
+        "location_en": "Grenoble_France",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#1044",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.767411573 , 45.19250414]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "ボルドー大学 ",
+        "partner_organization": " University of Bordeaux",
+        "location_ja": "フランス　ボルドー",
+        "location_en": "Bordeaux_France",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#1219",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.605486878 , 44.82552835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "マレーシア工科大学 ",
+        "partner_organization": " Universiti Teknologi Malaysia",
+        "location_ja": "マレーシア　ジョホールバル",
+        "location_en": "Johor Bharu_Malaysia",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#1037",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6385964 , 1.560460871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "国立台湾大学",
+        "partner_organization": " National Taiwan University",
+        "location_ja": "台湾　台北",
+        "location_en": "Taipei_Taiwan",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#905",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5397196 , 25.01843493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "オハイオ州立大学",
+        "partner_organization": "Ohio State University",
+        "location_ja": "米国　コロンバス",
+        "location_en": "Columbus_USA",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#699",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.03042242 , 40.00771198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "カリフォルニア大学アーバイン校 ",
+        "partner_organization": " University of California_Irvine",
+        "location_ja": "米国　アーバイン",
+        "location_en": "Irvine_USA",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#1000",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.8441889 , 33.64159169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "インド工科大学グワハティ校 ",
+        "partner_organization": "Indian Institute of Technology Guwahati",
+        "location_ja": "インド 　グワハティ",
+        "location_en": "Guwahati_India",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#1040",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.1473083 , 23.81409393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "国立成功大学",
+        "partner_organization": " National Cheng Kung University",
+        "location_ja": "台湾　台南",
+        "location_en": "Tainan_Taiwan",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#1041",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.2190189 , 23.0022932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "ルーヴェン･カトリック大学",
+        "partner_organization": "Katholieke Universiteit Leuven_KU Leuven",
+        "location_ja": "ベルギー　ルーバン",
+        "location_en": "Leuven_Belgium",
+        "agreement_type_ja": "CiC",
+        "agreement_type_en": "CiC Partner",
+        "url": "https://www.bgi.sec.tsukuba.ac.jp/partner-organizations/#1053",
+        "color": "#ff7f50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.700300014 , 50.8779526]
+      }
+    }
+  ]
+}
